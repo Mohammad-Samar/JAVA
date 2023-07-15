@@ -17,7 +17,7 @@ The strength of this college project lies in its ability to automate responses t
 In summary, the College Project Response Automation Chatbot, developed using Java, Java Swing, and JDBC with a defined SQL, is an innovative and comprehensive solution that streamlines information retrieval and enhances communication within a college environment. Its robust programming, intuitive user interface, and seamless database integration make it a powerful tool for students, faculty, and staff alike.
 
 
-SNAPSHOT OF PROJECTS:->
+<----------------------SNAPSHOT OF PROJECTS---------------------->
 
 1. Registering User
    
