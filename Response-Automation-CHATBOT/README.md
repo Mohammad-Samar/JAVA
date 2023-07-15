@@ -1,4 +1,4 @@
-# Response-Automation-CHATBOT
+![image](https://github.com/Mohammad-Samar/JAVA/assets/119682599/b3b19e8f-6ad9-4757-b39d-6d398768385a)![image](https://github.com/Mohammad-Samar/JAVA/assets/119682599/51d09c31-0919-4d55-a060-d0866b642cc4)# Response-Automation-CHATBOT
 
 The College Project Response Automation Chatbot is a remarkable creation built using the power of Java programming language, Java Swing framework, and JDBC (Java Database Connectivity). This sophisticated chatbot is designed to efficiently handle and respond to user inquiries and interactions in a college setting. Java, being a robust and versatile language, provides a solid foundation for developing the chatbot's core functionality. The Java Swing framework enhances the user interface, offering a visually appealing and user-friendly experience. Additionally, JDBC enables seamless integration with a defined SQL (Structured Query Language) database, enabling the chatbot to retrieve and store relevant data.
 
@@ -21,22 +21,22 @@ SNAPSHOT OF PROJECTS:->
 
 1. Registering User
    
-![image](https://github.com/Mohammad-Samar/Response-Automation-CHATBOT/assets/119682599/1013822f-c26c-4ae6-9e83-ef57f3c2a943)
+![image](https://github.com/Mohammad-Samar/JAVA/assets/119682599/5e1ce08a-5de8-4ff3-acd3-3bcdb1f1c446)
 
 
 2. Login To Account(Existing Account)
    
-![image](https://github.com/Mohammad-Samar/Response-Automation-CHATBOT/assets/119682599/c66f7ba9-6ebb-4a96-a793-2a5cc2b271ba)
+![image](https://github.com/Mohammad-Samar/JAVA/assets/119682599/67efdb8b-f1b5-4cf5-9cc5-5a9dc382e914)
 
 
 3. User can write there query
 
-![image](https://github.com/Mohammad-Samar/Response-Automation-CHATBOT/assets/119682599/04a3c605-0831-4096-bd60-c4017fc854de)
+![image](https://github.com/Mohammad-Samar/JAVA/assets/119682599/03d547dc-abd0-4608-bbb3-ca58c61008e9)
 
 
 4. Connecting to Virtual Assistant
    
-![image](https://github.com/Mohammad-Samar/Response-Automation-CHATBOT/assets/119682599/7a60a948-4930-425a-be10-e7ddd0440b09)
+![image](https://github.com/Mohammad-Samar/JAVA/assets/119682599/7e96a3f1-293a-4e56-8f85-e961ae29aa18)
 
    
 SIMILAR FOR SERVER SIDE.
