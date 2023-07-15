@@ -1,4 +1,4 @@
-![image](https://github.com/Mohammad-Samar/JAVA/assets/119682599/b3b19e8f-6ad9-4757-b39d-6d398768385a)![image](https://github.com/Mohammad-Samar/JAVA/assets/119682599/51d09c31-0919-4d55-a060-d0866b642cc4)# Response-Automation-CHATBOT
+# What is this project all about?
 
 The College Project Response Automation Chatbot is a remarkable creation built using the power of Java programming language, Java Swing framework, and JDBC (Java Database Connectivity). This sophisticated chatbot is designed to efficiently handle and respond to user inquiries and interactions in a college setting. Java, being a robust and versatile language, provides a solid foundation for developing the chatbot's core functionality. The Java Swing framework enhances the user interface, offering a visually appealing and user-friendly experience. Additionally, JDBC enables seamless integration with a defined SQL (Structured Query Language) database, enabling the chatbot to retrieve and store relevant data.
 
